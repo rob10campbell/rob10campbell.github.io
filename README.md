@@ -1,3 +1,3 @@
 # Test website
 
-A website to test WebGL
+A website to test using WebGL for interactive visualizations
